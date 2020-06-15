@@ -1,0 +1,2 @@
+# Predicting-customer-subscription
+This dataset consists of data collected as part of an upselling promotional discount offered on March 5, 2018 where 10% of customers who were on a ‘two-meal-per-week plan’ of a meal preparation and delivery service(QuickKits) were offered a promotional discount of 40% for a three-meal-per-week plan, for two weeks. At the end of the two-week period, subscribers to the promotion would remained on the three-week plan at regular price unless they opted out.   
